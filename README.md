@@ -27,3 +27,4 @@ Once the server is running, open the project in the shape of 'https://projectnam
 # leilawatchcodelesson3
 # leilawatchcodelesson4
 # leilawatchcodelesson5
+# jquery
